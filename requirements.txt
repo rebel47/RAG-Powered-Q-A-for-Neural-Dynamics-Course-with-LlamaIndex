@@ -1,0 +1,15 @@
+streamlit
+transformers
+huggingface-hub
+torch
+bitsandbytes
+pypdf 
+einops 
+accelerate 
+langchain
+sentence_transformers
+llama_index
+llama-index-llms-huggingface
+langchain-community
+llama-index-embeddings-langchain
+langchain-huggingface
